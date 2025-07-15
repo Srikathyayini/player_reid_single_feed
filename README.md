@@ -14,6 +14,8 @@ Track players in a 15s football clip and re-identify them when they re-enter the
 - OpenCV
 - Ultralytics YOLO (`pip install ultralytics`)
 - NumPy
+## Model Download
+Object detection model link: https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view
 
 ## How to Run
 ```bash
